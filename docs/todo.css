@@ -1,0 +1,20 @@
+main {
+    height: 100vh;
+    background-color: #7340ff;
+    justify-content: center;
+    align-items: center;
+}
+
+#headline {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+#todoform {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+li {
+    font-family: 'Roboto', sans-serif;
+}
