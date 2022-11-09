@@ -1,3 +1,2 @@
 # Creating-tasks
-to-do-list
-task
+This app is designed for task
